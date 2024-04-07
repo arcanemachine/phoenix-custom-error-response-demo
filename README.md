@@ -1,9 +1,18 @@
-# phoenix-custom-error-response-demo
+# YourProject
 
-A demo repo for [my blog post about adding custom error responses](https://www.nicholasmoen.com/blog/phoenix-custom-error-responses/) when using the Phoenix web framework.
+To start your Phoenix server:
 
-## Branches
+  * Run `mix setup` to install and setup dependencies
+  * Start Phoenix endpoint with `mix phx.server` or inside IEx with `iex -S mix phx.server`
 
-For Phoenix <= v1.6, use this branch: https://github.com/arcanemachine/phoenix-custom-error-response-demo/tree/phoenix-1.6
+Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
-For Phoenix >= v1.7, use this branch: - https://github.com/arcanemachine/phoenix-custom-error-response-demo/tree/phoenix-1.7
+Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
+
+## Learn more
+
+  * Official website: https://www.phoenixframework.org/
+  * Guides: https://hexdocs.pm/phoenix/overview.html
+  * Docs: https://hexdocs.pm/phoenix
+  * Forum: https://elixirforum.com/c/phoenix-forum
+  * Source: https://github.com/phoenixframework/phoenix
