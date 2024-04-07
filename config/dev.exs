@@ -12,7 +12,7 @@ config :your_project, YourProjectWeb.Endpoint,
   http: [ip: {127, 0, 0, 1}, port: 4000],
   check_origin: false,
   code_reloader: true,
-  debug_errors: true,
+  # debug_errors: true,
   secret_key_base: "38tJC/lCeFhQwiHPKu/kGHa7Cbw+5Z9+GbAHCmxT6lvfWqrd61PhyI0qFHWY+PBu",
   watchers: []
 
