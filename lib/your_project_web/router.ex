@@ -15,7 +15,7 @@ defmodule YourProjectWeb.Router do
   end
 
   scope "/", YourProjectWeb do
-    pipe_through :browser
+    pipe_through :api
 
     get "/", PageController, :index
   end
